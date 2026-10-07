@@ -15,3 +15,13 @@ Ropa vieja:
 <a href="https://www.rit.edu/computing/department-software-engineering" target="_blank">
     RIT Software Engineering
 </a>
+
+
+Thing I want to learn in this class
+
+<ul>
+
+ 
+<li> Learn more about Software Engineering </li>
+ 
+</ul>

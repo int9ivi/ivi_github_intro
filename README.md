@@ -9,4 +9,5 @@ watched so many cop, detective shows.
 
 My favorite food is 
 Ropa vieja:
+
 <img src="ropa_vieja.pdf" alt="My favorite food">

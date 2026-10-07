@@ -11,3 +11,7 @@ My favorite food is
 Ropa vieja:
 
 <img src="ropa_vieja.pdf" alt="My favorite food">
+ 
+<a href="https://www.rit.edu/computing/department-software-engineering" target="_blank">
+    RIT Software Engineering
+</a>

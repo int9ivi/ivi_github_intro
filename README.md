@@ -7,4 +7,6 @@ spending time with family. Once or twice a week my roommate and I pick a day tha
 both not busy and we have a movie or game night. I am a big criminal show person, i've 
 watched so many cop, detective shows. 
 
+My favorite food is 
+Ropa vieja:
 <img src="ropa_vieja.pdf" alt="My favorite food">

@@ -27,5 +27,8 @@ Thing I want to learn in this class:
 
  
 <li> Learn more about Software Engineering </li>
+<li> Learn more about different types of software engineering projects </li>
+<li> Learn how to create interactive websites </li>
+<li> Improve on my programming through the projects </li>
  
 </ul>
